@@ -1,8 +1,8 @@
-package com.uduran.apiserverlet.webapp.headers.controllers;
+package com.uduran.apiservlet.webapp.headers.controllers;
 
-import com.uduran.apiserverlet.webapp.headers.models.Producto;
-import com.uduran.apiserverlet.webapp.headers.services.ProductoService;
-import com.uduran.apiserverlet.webapp.headers.services.ProductoServiceImpl;
+import com.uduran.apiservlet.webapp.headers.models.Producto;
+import com.uduran.apiservlet.webapp.headers.services.ProductoService;
+import com.uduran.apiservlet.webapp.headers.services.ProductoServiceImpl;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

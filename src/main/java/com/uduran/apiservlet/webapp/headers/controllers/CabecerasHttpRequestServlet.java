@@ -1,4 +1,4 @@
-package com.uduran.apiserverlet.webapp.headers.controllers;
+package com.uduran.apiservlet.webapp.headers.controllers;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

@@ -1,4 +1,4 @@
-package com.uduran.apiserverlet.webapp.headers.models;
+package com.uduran.apiservlet.webapp.headers.models;
 
 public class Producto {
     private Long id;
